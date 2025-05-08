@@ -19,8 +19,8 @@ Follow these steps to set up and run the app locally using XAMPP.
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/MachineKe/blogpost.git d:/xamp/htdocs/yii2-crash-course
-   cd d:/xamp/htdocs/yii2-crash-course
+   git clone https://github.com/MachineKe/blogpost.git d:/xamp/htdocs/blogpost
+   cd d:/xamp/htdocs/blogpost
    ```
 
 2. **Install dependencies**
@@ -45,7 +45,7 @@ Follow these steps to set up and run the app locally using XAMPP.
 
 - Start **Apache** and **MySQL** from the XAMPP Control Panel.
 - Open your browser and go to:  
-  [http://localhost/yii2-crash-course/web](http://localhost/yii2-crash-course/web)
+  [http://localhost/blogpost/web](http://localhost/blogpost/web)
 
 ---
 
