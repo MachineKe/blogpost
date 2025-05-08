@@ -19,7 +19,7 @@ Follow these steps to set up and run the app locally using XAMPP.
 1. **Clone the repository**
 
    ```bash
-   git clone [your-repo-url] d:/xamp/htdocs/yii2-crash-course
+   git clone https://github.com/MachineKe/blogpost.git d:/xamp/htdocs/yii2-crash-course
    cd d:/xamp/htdocs/yii2-crash-course
    ```
 
